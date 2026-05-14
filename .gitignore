@@ -1,0 +1,7 @@
+.snakemake/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+results/*.tsv
